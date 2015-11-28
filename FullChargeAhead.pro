@@ -1,4 +1,4 @@
-update=27/11/2015 19:30:34
+update=28/11/2015 15:49:55
 version=1
 last_client=eeschema
 [cvpcb]
@@ -86,3 +86,4 @@ LibName29=contrib
 LibName30=valves
 LibName31=FullChargeAhead
 LibName32=C:/Users/Laura y Miguel/Desktop/MIGUEL/Cursos/ContextualElectronicsRepository/CurrentSinkOrSwim/CurrentSinkOrSwim/CurrentSinkOrSwim
+LibName33=usb-b
