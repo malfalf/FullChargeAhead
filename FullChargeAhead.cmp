@@ -1,0 +1,129 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 29/11/2015 11:16:33
+
+BeginCmp
+TimeStamp = /5658A539;
+Reference = C101;
+ValeurCmp = 4.7U;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /5658A458;
+Reference = C102;
+ValeurCmp = 4.7U;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /5658A23A;
+Reference = D101;
+ValeurCmp = NOPOP;
+IdModule  = LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5658A22D;
+Reference = D102;
+ValeurCmp = LED;
+IdModule  = LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5658A21A;
+Reference = D103;
+ValeurCmp = LED;
+IdModule  = LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5658A882;
+Reference = P101;
+ValeurCmp = CONN_2;
+IdModule  = PINHEAD1-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5658A4D7;
+Reference = P102;
+ValeurCmp = CONN_2;
+IdModule  = PINHEAD1-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5659D9B5;
+Reference = P103;
+ValeurCmp = MICROUSB-B;
+IdModule  = USB_MICRO_B(10103594);
+EndCmp
+
+BeginCmp
+TimeStamp = /5658A242;
+Reference = R101;
+ValeurCmp = 470;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5658A24F;
+Reference = R102;
+ValeurCmp = 470;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5658A255;
+Reference = R103;
+ValeurCmp = NOPOP;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5658A872;
+Reference = R104;
+ValeurCmp = 1K;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5658A3CE;
+Reference = R105;
+ValeurCmp = 10k;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5658A391;
+Reference = R106;
+ValeurCmp = 2k;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5659D6A2;
+Reference = R107;
+ValeurCmp = NOPOP;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5659D6A8;
+Reference = R108;
+ValeurCmp = NOPOP;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5659D6AE;
+Reference = R109;
+ValeurCmp = NOPOP;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5658A865;
+Reference = U101;
+ValeurCmp = MCP73834-FCI/UN;
+IdModule  = MSOP10-0.5;
+EndCmp
+
+EndListe

@@ -1,0 +1,327 @@
+PCBNEW-LibModule-V1  29/11/2015 11:21:15
+# encoding utf-8
+Units mm
+$INDEX
+USB_MICRO_B(10103594)
+USB_MINI_B
+USB_MINI_B(10103594)
+$EndINDEX
+$MODULE USB_MICRO_B(10103594)
+Po 0 0 0 15 565AD187 00000000 ~~
+Li USB_MICRO_B(10103594)
+Cd USB Mini-B 5-pin SMD connector
+Kw USB, Mini-B, connector
+Sc 0
+AR /5659D9B5
+Op 0 0 0
+T0 -2.075 5.1 1.016 1.016 0 0.2032 N V 21 N "P103"
+T1 -1.825 -4.925 1.016 1.016 0 0.2032 N I 21 N "MICROUSB-B"
+DS 0.875 -3.9 0.875 3.9 0.15 21
+DS -5.4 -3.9 -5.4 3.9 0.15 21
+DS -5.4 3.9 0.875 3.9 0.15 21
+DS -5.4 -3.9 0.875 -3.9 0.15 21
+$PAD
+Sh "1" R 1.75 0.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 2 "N-0000014"
+Po 0 -1.3
+$EndPAD
+$PAD
+Sh "9" R 2.5 1.425 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 1 "GND"
+Po -3.075 0.9625
+$EndPAD
+$PAD
+Sh "8" R 2.5 1.425 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 1 "GND"
+Po -3.075 -0.9625
+$EndPAD
+$PAD
+Sh "7" R 1.46 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 1 "GND"
+Po 0 2.9
+$EndPAD
+$PAD
+Sh "9" R 1.46 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 1 "GND"
+Po 0 -2.9
+$EndPAD
+$PAD
+Sh "" C 1.05 1.05 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -2.425
+$EndPAD
+$PAD
+Sh "2" R 1.75 0.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 5 "N-000007"
+Po 0 -0.65
+$EndPAD
+$PAD
+Sh "3" R 1.75 0.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 4 "N-000006"
+Po 0 0
+$EndPAD
+$PAD
+Sh "4" R 1.75 0.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 3 "N-000005"
+Po 0 0.65
+$EndPAD
+$PAD
+Sh "5" R 1.75 0.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 1 "GND"
+Po 0 1.3
+$EndPAD
+$PAD
+Sh "" C 1.05 1.05 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 2.425
+$EndPAD
+$PAD
+Sh "" C 1.2 1.2 0 0 0
+Dr 1.2 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.825 2.725
+$EndPAD
+$PAD
+Sh "" C 1.2 1.2 0 0 0
+Dr 1.2 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.825 -2.725
+$EndPAD
+$EndMODULE USB_MICRO_B(10103594)
+$MODULE USB_MINI_B
+Po 0 0 0 15 5659F0A2 00000000 ~~
+Li USB_MINI_B
+Cd USB Mini-B 5-pin SMD connector
+Kw USB, Mini-B, connector
+Sc 0
+AR 
+Op 0 0 0
+T0 -2.075 5.1 1.016 1.016 0 0.2032 N V 21 N "CON"
+T1 -1.825 -4.925 1.016 1.016 0 0.2032 N I 21 N "USB-Mini-B"
+DS 0.875 -3.9 0.875 3.9 0.15 21
+DS -5.4 -3.9 -5.4 3.9 0.15 21
+DS -5.4 3.9 0.875 3.9 0.15 21
+DS -5.4 -3.9 0.875 -3.9 0.15 21
+$PAD
+Sh "1" R 1.75 0.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -2.6
+$EndPAD
+$PAD
+Sh "9" R 2.5 1.425 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.075 0.9625
+$EndPAD
+$PAD
+Sh "8" R 2.5 1.425 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.075 -0.9625
+$EndPAD
+$PAD
+Sh "7" R 1.46 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 2.9
+$EndPAD
+$PAD
+Sh "9" R 1.46 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -2.9
+$EndPAD
+$PAD
+Sh "" C 1.05 1.05 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -2.425
+$EndPAD
+$PAD
+Sh "2" R 1.75 0.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -1.25
+$EndPAD
+$PAD
+Sh "3" R 1.75 0.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "4" R 1.75 0.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 1.3
+$EndPAD
+$PAD
+Sh "5" R 1.75 0.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 1.3
+$EndPAD
+$PAD
+Sh "" C 1.05 1.05 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 2.425
+$EndPAD
+$PAD
+Sh "" C 1.2 1.2 0 0 0
+Dr 1.2 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.825 2.725
+$EndPAD
+$PAD
+Sh "" C 1.2 1.2 0 0 0
+Dr 1.2 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.825 -2.725
+$EndPAD
+$EndMODULE USB_MINI_B
+$MODULE USB_MINI_B(10103594)
+Po 0 0 0 15 5659F0A2 00000000 ~~
+Li USB_MINI_B(10103594)
+Cd USB Mini-B 5-pin SMD connector
+Kw USB, Mini-B, connector
+Sc 0
+AR 
+Op 0 0 0
+T0 -2.075 5.1 1.016 1.016 0 0.2032 N V 21 N "CON"
+T1 -1.825 -4.925 1.016 1.016 0 0.2032 N I 21 N "USB-Mini-B"
+DS 0.875 -3.9 0.875 3.9 0.15 21
+DS -5.4 -3.9 -5.4 3.9 0.15 21
+DS -5.4 3.9 0.875 3.9 0.15 21
+DS -5.4 -3.9 0.875 -3.9 0.15 21
+$PAD
+Sh "1" R 1.75 0.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -2.6
+$EndPAD
+$PAD
+Sh "9" R 2.5 1.425 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.075 0.9625
+$EndPAD
+$PAD
+Sh "8" R 2.5 1.425 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -3.075 -0.9625
+$EndPAD
+$PAD
+Sh "7" R 1.46 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 2.9
+$EndPAD
+$PAD
+Sh "9" R 1.46 2 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -2.9
+$EndPAD
+$PAD
+Sh "" C 1.05 1.05 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -2.425
+$EndPAD
+$PAD
+Sh "2" R 1.75 0.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 -1.25
+$EndPAD
+$PAD
+Sh "3" R 1.75 0.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 0
+$EndPAD
+$PAD
+Sh "4" R 1.75 0.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 1.3
+$EndPAD
+$PAD
+Sh "5" R 1.75 0.4 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0 1.3
+$EndPAD
+$PAD
+Sh "" C 1.05 1.05 0 0 0
+Dr 1.05 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 2.425
+$EndPAD
+$PAD
+Sh "" C 1.2 1.2 0 0 0
+Dr 1.2 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.825 2.725
+$EndPAD
+$PAD
+Sh "" C 1.2 1.2 0 0 0
+Dr 1.2 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -2.825 -2.725
+$EndPAD
+$EndMODULE USB_MINI_B(10103594)
+$EndLIBRARY
