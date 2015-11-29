@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 29/11/2015 11:16:33
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 29/11/2015 20:02:09
 
 BeginCmp
 TimeStamp = /5658A539;
@@ -18,42 +18,42 @@ BeginCmp
 TimeStamp = /5658A23A;
 Reference = D101;
 ValeurCmp = NOPOP;
-IdModule  = LED-0805;
+IdModule  = LED-0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /5658A22D;
 Reference = D102;
 ValeurCmp = LED;
-IdModule  = LED-0805;
+IdModule  = LED-0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /5658A21A;
 Reference = D103;
 ValeurCmp = LED;
-IdModule  = LED-0805;
+IdModule  = LED-0603;
 EndCmp
 
 BeginCmp
 TimeStamp = /5658A882;
 Reference = P101;
 ValeurCmp = CONN_2;
-IdModule  = PINHEAD1-2;
+IdModule  = PIN_ARRAY_2X1;
 EndCmp
 
 BeginCmp
 TimeStamp = /5658A4D7;
 Reference = P102;
 ValeurCmp = CONN_2;
-IdModule  = PINHEAD1-2;
+IdModule  = PIN_ARRAY_2X1;
 EndCmp
 
 BeginCmp
 TimeStamp = /5659D9B5;
 Reference = P103;
 ValeurCmp = MICROUSB-B;
-IdModule  = USB_MICRO_B(10103594);
+IdModule  = USB_MICRO_B(10103594)v2;
 EndCmp
 
 BeginCmp

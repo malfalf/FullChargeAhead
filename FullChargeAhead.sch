@@ -39,7 +39,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title ""
-Date "28 nov 2015"
+Date "29 nov 2015"
 Rev ""
 Comp ""
 Comment1 ""
@@ -420,4 +420,8 @@ F 3 "" H 2180 2850 60  0000 C CNN
 	1    1780 3050
 	1    0    0    -1  
 $EndComp
+Text Label 4250 3250 0    60   ~ 0
+Vdd
+Text Label 6650 3250 0    60   ~ 0
+Vbat
 $EndSCHEMATC
