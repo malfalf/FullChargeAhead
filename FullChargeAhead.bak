@@ -39,7 +39,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title ""
-Date "29 nov 2015"
+Date "2 dec 2015"
 Rev ""
 Comp ""
 Comment1 ""
@@ -342,14 +342,9 @@ Wire Wire Line
 Wire Wire Line
 	880  2420 880  3200
 Wire Wire Line
-	880  2420 3220 2420
-Wire Wire Line
 	2920 2420 2920 2560
 Wire Wire Line
 	2480 2850 2620 2850
-Wire Wire Line
-	2620 2850 2620 2420
-Connection ~ 2620 2420
 Wire Wire Line
 	1080 2900 880  2900
 Connection ~ 880  2900
@@ -401,14 +396,7 @@ Wire Wire Line
 Wire Wire Line
 	3120 2950 3220 2950
 Wire Wire Line
-	3220 2420 3220 3150
-Connection ~ 2920 2420
-Wire Wire Line
 	3220 3150 3120 3150
-Connection ~ 3220 2950
-Wire Wire Line
-	3120 3050 3220 3050
-Connection ~ 3220 3050
 $Comp
 L MICROUSB-B P103
 U 1 1 5659D9B5
@@ -424,4 +412,16 @@ Text Label 4250 3250 0    60   ~ 0
 Vdd
 Text Label 6650 3250 0    60   ~ 0
 Vbat
+Wire Wire Line
+	880  2420 2920 2420
+Wire Wire Line
+	2620 2850 2620 2420
+Connection ~ 2620 2420
+Wire Wire Line
+	3220 2950 3220 3250
+Connection ~ 3220 3250
+Connection ~ 3220 3150
+Wire Wire Line
+	3120 3050 3220 3050
+Connection ~ 3220 3050
 $EndSCHEMATC
